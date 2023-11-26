@@ -11,6 +11,10 @@
     font-family: Cinzel Decorative;
 }
 
+#desc{
+    width: 100%;
+}
+
 .img{
     height:100%;
     width:100%;
